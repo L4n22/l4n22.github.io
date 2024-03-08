@@ -1,4 +1,4 @@
-baseURL: "https://l4n22.github.io/"
+baseURL: "https://l4n22.github.io"
 title: L4n22 Blog
 theme: ["PaperMod"]
 
@@ -37,11 +37,11 @@ languages:
           weight: 15
 
 
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
+#outputs:
+#  home:
+#    - HTML
+#    - RSS
+#    - JSON
 
 params:
   author: ["L4n22"] # multiple authors
